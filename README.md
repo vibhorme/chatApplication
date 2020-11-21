@@ -6,7 +6,7 @@
 ![ScreenShot](/screenshots/EnterRoomDesktop.png?raw=true "Optional Title")
 
 ##Room Page Desktop View
-![ScreenShot](/screenshots/RoomDesktop.png?raw=true "Optional Title")
+![ScreenShot](/screenshots/RoomMobile.png?raw=true "Optional Title")
 
 ## Mobile View
 
@@ -14,7 +14,7 @@
 ![Alt text](/screenshots/EnterRoomMobile.png?raw=true "Optional Title")
 
 ##Room Page Mobile View
-![Alt text](/screenshots/RoomMobile.png?raw=true "Optional Title")
+![Alt text](/screenshots/RoomDesktop.png?raw=true "Optional Title")
 
 
 The Frontend Stack used includes
