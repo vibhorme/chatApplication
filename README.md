@@ -1,20 +1,21 @@
 # 🎉 Chat Application
+A NextJs SSR PWA Application based on webSockets
 
 ## Desktop View
 
-##Enter Room Page Desktop View
+# Enter Room Page Desktop View
 ![ScreenShot](/screenshots/EnterRoomDesktop.png?raw=true "Optional Title")
 
-##Room Page Desktop View
-![ScreenShot](/screenshots/RoomDesktop.png?raw=true "Optional Title")
+# Room Page Desktop View
+![ScreenShot](/screenshots/RoomMobile.png?raw=true "Optional Title")
 
 ## Mobile View
 
-##Room Page Mobile View
+# Room Page Mobile View
 ![Alt text](/screenshots/EnterRoomMobile.png?raw=true "Optional Title")
 
-##Room Page Mobile View
-![Alt text](/screenshots/RoomMobile.png?raw=true "Optional Title")
+# Room Page Mobile View
+![Alt text](/screenshots/RoomDesktop.png?raw=true "Optional Title")
 
 
 The Frontend Stack used includes
@@ -36,5 +37,5 @@ The Backend Stack used includes
 2. NodeJs
 3. Express
 3. WebSockets
-   3.1 sockets.io
+4. Socket.io
  
