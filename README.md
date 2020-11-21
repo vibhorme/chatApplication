@@ -1,4 +1,5 @@
 # 🎉 Chat Application
+A NextJs SSR PWA Application based on webSockets
 
 ## Desktop View
 
