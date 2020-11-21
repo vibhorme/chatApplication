@@ -37,5 +37,5 @@ The Backend Stack used includes
 2. NodeJs
 3. Express
 3. WebSockets
-   3.1 sockets.io
+4. sockets.io
  
