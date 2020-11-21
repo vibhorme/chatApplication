@@ -2,18 +2,18 @@
 
 ## Desktop View
 
-##Enter Room Page Desktop View
+# Enter Room Page Desktop View
 ![ScreenShot](/screenshots/EnterRoomDesktop.png?raw=true "Optional Title")
 
-##Room Page Desktop View
+# Room Page Desktop View
 ![ScreenShot](/screenshots/RoomMobile.png?raw=true "Optional Title")
 
 ## Mobile View
 
-##Room Page Mobile View
+# Room Page Mobile View
 ![Alt text](/screenshots/EnterRoomMobile.png?raw=true "Optional Title")
 
-##Room Page Mobile View
+# Room Page Mobile View
 ![Alt text](/screenshots/RoomDesktop.png?raw=true "Optional Title")
 
 
